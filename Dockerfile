@@ -1,5 +1,5 @@
 FROM dlord/minecraft:java8
-MAINTAINER John Paul Alcala jp@jpalcala.com
+MAINTAINER Joshua Lloyd j.nevercast@gmail.com
 
 ENV FTB_URL https://addons-origin.cursecdn.com/files/2481/284/FTBPresentsSkyfactory3Server_3.0.15.zip
 ENV LAUNCHWRAPPER net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
