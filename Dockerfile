@@ -1,4 +1,4 @@
-FROM dlord/minecraft:java8
+FROM dlord/minecraft:java7
 MAINTAINER Joshua Lloyd j.nevercast@gmail.com
 
 ENV FTB_URL https://addons-origin.cursecdn.com/files/2481/284/FTBPresentsSkyfactory3Server_3.0.15.zip
