@@ -1,4 +1,4 @@
-# FTB Infinity
+# FTB Sky Factory 3
 
 For instructions on how to use this docker image, see [dlord/minecraft][].
 
